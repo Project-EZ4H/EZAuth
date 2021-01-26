@@ -1,0 +1,7 @@
+
+name: EZAuth
+main: me.liuli.ezauth.EZAuth
+version: "1.0"
+author: liulihaocai
+api: ["1.0.0"]
+description: Bypass xbox-auth
